@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Marcus Ong  
 
-✨ *"In a world without magic, programming is the modern spellbook."*  
 
 I’m a **Software Engineering student at Ngee Ann Polytechnic** who loves building meaningful things through code — from **AI-powered productivity tools** 🧠 to **web platforms that improve daily life** 🌍.  
 
@@ -34,7 +33,6 @@ I believe great software blends **logic and creativity**, and I enjoy transformi
 ### 🌱 Currently Learning
 - Software R&D and applied AI  
 - Building scalable, user-focused systems  
-- Better ways to make code feel a little more like magic ✨  
 
 ---
 
