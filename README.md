@@ -1,46 +1,18 @@
-# 👋 Hey, I'm Marcus Ong  
+# 💫 About Me:
+I’m a Software Engineering student at Ngee Ann Polytechnic who loves building meaningful things through code — from AI-powered productivity tools 🧠 to web platforms that improve daily life 🌍.<br><br>I believe great software blends logic and creativity, and I enjoy transforming complex ideas into intuitive, human-centered solutions.<br><br>🧩 What I Do<br>🧠 Develop AI-integrated productivity and workflow tools<br>💻 Build full-stack web applications with strong UI/UX focus<br>⚙️ Explore Software R&D and AI-driven innovation<br>🧭 Apply Agile & Scrum practices to guide project development<br>🛠️ Tech Stack<br>Languages: C++, C#, Java, Python, HTML, CSS, JavaScript<br>Frameworks: Express.js<br>Databases: MSSQL, RestDB<br>Tools: Git, Jira<br><br>🚀 Projects You Might Like<br>🪄 Echo System – AI-driven productivity overlay that enhances focus and work-life balance<br>💬 SeniorSync – A full-stack web app that improves elderly-care communication<br>🛒 MokeSell – E-commerce prototype focused on user experience and API integration<br>🌱 Currently Learning<br>Software R&D and applied AI<br>Building scalable, user-focused systems<br>📫 Connect With Me<br>🌐 Portfolio Website<br>💼 LinkedIn<br>📧 Email: marcusongjr0209@gmail.com<br>“Good code is like poetry — efficient, expressive, and written to be read.”
 
 
-I’m a **Software Engineering student at Ngee Ann Polytechnic** who loves building meaningful things through code — from **AI-powered productivity tools** 🧠 to **web platforms that improve daily life** 🌍.  
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MarcusOngJR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MarcusOngJR&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusOngJR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I believe great software blends **logic and creativity**, and I enjoy transforming complex ideas into intuitive, human-centered solutions.  
-
----
-
-### 🧩 What I Do
-- 🧠 Develop **AI-integrated productivity and workflow tools**  
-- 💻 Build **full-stack web applications** with strong UI/UX focus  
-- ⚙️ Explore **Software R&D** and **AI-driven innovation**  
-- 🧭 Apply **Agile & Scrum** practices to guide project development  
-
----
-
-### 🛠️ Tech Stack
-**Languages:** C++, C#, Java, Python, HTML, CSS, JavaScript  
-**Frameworks:** Express.js  
-**Databases:** MSSQL, RestDB  
-**Tools:** Git, Jira  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MarcusOngJR&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MarcusOngJR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Projects You Might Like
-- 🪄 **Echo System** – AI-driven productivity overlay that enhances focus and work-life balance  
-- 💬 **SeniorSync** – A full-stack web app that improves elderly-care communication  
-- 🛒 **MokeSell** – E-commerce prototype focused on user experience and API integration  
-
----
-
-### 🌱 Currently Learning
-- Software R&D and applied AI  
-- Building scalable, user-focused systems  
-
----
-
-### 📫 Connect With Me
-- 🌐 [Portfolio Website](http://marcusongjr.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcusongjr029)  
-- 📧 **Email:** marcusongjr0209@gmail.com  
-
----
-
-> “Good code is like poetry — efficient, expressive, and written to be read.”
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
